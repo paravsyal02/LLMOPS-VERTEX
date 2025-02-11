@@ -1,0 +1,8 @@
+google-cloud-aiplatform
+streamlit
+python-dotenv
+pypdf2
+google-cloud-storage
+pdfplumber
+scikit-learn
+ 
