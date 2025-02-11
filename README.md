@@ -1,6 +1,3 @@
-Sure! Here's a **README** file tailored to the code you've provided, explaining its functionalities and how to use the project.
-
----
 
 # LLMOPS-VERTEX
 
