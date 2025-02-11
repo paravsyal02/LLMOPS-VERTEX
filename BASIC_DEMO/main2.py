@@ -13,7 +13,7 @@ load_dotenv()
 # Set authentication credentials
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = os.getenv("GOOGLE_APPLICATION_CREDENTIALS")
 
-# Authenticate with Vertex AI using credentials from the JSON file
+# Authenticate with Vertex AI using credentials from the JSON file 
 vertexai.init()
 
 # Load the model

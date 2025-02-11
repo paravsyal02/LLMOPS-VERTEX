@@ -7,7 +7,7 @@ from vertexai.preview.generative_models import (
 )
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv() 
 
 project_id = os.getenv("project-id")
 project_region = os.getenv("region")
